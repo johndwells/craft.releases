@@ -1,7 +1,7 @@
 [
 	{
 		"version": "0.9.3",
-		"downloadUrl": "https://github.com/johndwells/craft.minimee/releases/tag/v0.9.3",
+		"downloadUrl": "https://github.com/johndwells/craft.minimee/archive/v0.9.3.zip",
 		"date": "2015-09-05T00:00:00-00:00",
 		"notes": [
 			"[Fixed] Correctly use best logging method based on Craft version",
@@ -10,7 +10,7 @@
 	},
 	{
 		"version": "0.9.4",
-		"downloadUrl": "https://github.com/johndwells/craft.minimee/releases/tag/v0.9.4",
+		"downloadUrl": "https://github.com/johndwells/craft.minimee/archive/v0.9.4.zip",
 		"date": "2015-12-04T00:00:00-00:00",
 		"notes": [
 			"[Added] Support for Craft 2.5 features, incl. plugin icon & release feed"
