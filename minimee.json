@@ -1,0 +1,11 @@
+[
+	{
+		"version": "0.9.3",
+		"downloadUrl": "https://github.com/johndwells/craft.minimee/releases/tag/v0.9.3",
+		"date": "2015-09-05T00:00:00-00:00",
+		"notes": [
+			"[Fixed] Correctly use best logging method based on Craft version",
+			"[Fixed] Restore ability to clear caches from the CP"
+		]
+	}
+]
