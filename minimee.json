@@ -23,7 +23,7 @@
 		"notes": [
 			"[Fixed] Allowed for protocol-less URLs when CURLing to remote assets",
 			"[Fixed] match link & script tags if they span across multiple lines",
-			"[New] Enable/disable & override CSS Prepend URLs"
+			"[Added] Enable/disable & override CSS Prepend URLs"
 		]
 	}
 ]
