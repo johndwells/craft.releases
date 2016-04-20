@@ -45,5 +45,13 @@
 			"[Improved] Exceptions thrown are now more readable",
 			"[Improved] Updated project dependencies (Minify 2.3, Zit 0.5.2)"
 		]
+	},
+	{
+		"version": "0.9.8",
+		"downloadUrl": "https://github.com/johndwells/craft.minimee/archive/v0.9.8.zip",
+		"date": "2016-04-20T00:04:20-04:20",
+		"notes": [
+			"[Added] Installable via composer (thx @jackmcpickle)",
+		]
 	}
 ]
