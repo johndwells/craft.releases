@@ -33,5 +33,17 @@
 		"notes": [
 			"[Improved] Introduced getSchemaVersion() so that future updates will not require your site to go down just to finish updating."
 		]
+	},
+	{
+		"version": "0.9.7",
+		"downloadUrl": "https://github.com/johndwells/craft.minimee/archive/v0.9.7.zip",
+		"date": "2016-04-20T00:00:00-00:00",
+		"notes": [
+			"[Fixed] Bug that was removing spaces in a calc() rule"
+			"[Fixed] A bug that would occur if using a legacy configuration syntax",
+			"[Improved] Throw different levels of exceptions based on severity of the event",
+			"[Improved] Exceptions thrown are now more readable",
+			"[Improved] Updated project dependencies (Minify 2.3, Zit 0.5.2)"
+		]
 	}
 ]
