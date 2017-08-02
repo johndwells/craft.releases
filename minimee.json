@@ -59,7 +59,8 @@
 		"downloadUrl": "https://github.com/johndwells/craft.minimee/archive/v0.9.9.zip",
 		"date": "2017-08-02T00:07:15-07:15",
 		"notes": [
-			"[Improved] Update depedencies to resolve incompatibility with PHP 7.1",
+			"- [Fixed] Resolve compatibility issue with BaseModel::getAttribute() signature",
+			"[Improved] Update dependencies to resolve incompatibility with PHP 7.1",
 		]
 	}
 ]
